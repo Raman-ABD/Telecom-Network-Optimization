@@ -1,0 +1,8 @@
+Origin,Destination,Distance
+Delhi,Mumbai,1400
+Delhi,Kolkata,1500
+Mumbai,Bangalore,1000
+Mumbai,Kolkata,2000
+Bangalore,Kolkata,1800
+Bangalore,Chennai,350
+Kolkata,Chennai,1600
